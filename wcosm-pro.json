@@ -1,0 +1,26 @@
+[
+{
+"start": "2023-07-28 00:00:01",
+"end": "2023-08-04 23:59:00",
+"hash": "dec06622-980f-4674-8b08-72e23cc9e70g",
+"dismissible": 1,
+"content": "<p>Biggest Sale of the year on this</p><h3>Black Friday & Cyber Monday</h3><p>Claim your discount on  till 4th December</p>",
+"wrapperPadding": "85px 0",
+"backgroundImage": "",
+"backgroundRepeat": "no-repeat",
+"backgroundSize": "cover",
+"backgroundColor": "#000",
+"color": "#fff",
+"logo": {
+"src": "https://github.com/coderstimes/outofstockmessage/blob/main/bg.png?raw=true",
+"alt": "Out Of Stock Manage for WooCommerce"
+},
+"button": {
+"label": "Save 30%",
+"url": "https://coders-time.com/plugins/out-of-stock/",
+"backgroundColor": "#F71560",
+"color": "#FFF",
+"after": "<div style=\"font-size: 15px; font-weight: 700; margin-top: 12px;\">Coupon: BFCM2019</div>"
+}
+}
+]
